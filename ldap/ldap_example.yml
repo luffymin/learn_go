@@ -1,0 +1,11 @@
+ldap:
+  anonymousquery: 0
+  basedn: ou=xxx,dc=xxx,dc=xxx
+  bindpassword: xxxxxx
+  binduserdn: uid=xxxxxx,ou=xxx,dc=xxx,dc=xxx
+  host: xxx.xxx.xxx.xxx
+  port: 389
+  tls: 0
+  userfield: uid
+  username: xxxxxx
+  password: xxxxxx
